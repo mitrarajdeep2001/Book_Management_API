@@ -27,3 +27,5 @@ This API allows users to manage books, including CRUD operations for books, user
    * **Update Book**: Use the /book/update/:id endpoint to update a book by its ID.
    * **Delete Book**: Use the /book/delete/:id endpoint to delete a book by its ID.
 
+### Deployed Link: https://book-management-api-bk6o.onrender.com
+**Note**: I've used free web hosting service of render so, it gets down after being inactive for few minutes.
